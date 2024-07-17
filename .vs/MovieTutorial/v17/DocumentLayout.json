@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\movie\\movieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\movie\\movieform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\movie\\movierow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\movie\\movierow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\migrations\\defaultdb\\defaultdb_20221122_1151_personmovieimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\migrations\\defaultdb\\defaultdb_20221122_1151_personmovieimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\person\\persondialog.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\person\\persondialog.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personmoviecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personmoviecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|c:\\users\\mario\\source\\repos\\movietutorial\\movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personmoviegrid.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FC80D8-76A5-4751-9A39-23CE1D7D3487}|MovieTutorial\\MovieTutorial.Web\\MovieTutorial.Web.csproj|solutionrelative:movietutorial\\movietutorial.web\\modules\\moviedb\\person\\personmoviegrid.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieRow.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieRow.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieRow.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieRow.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieRow.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA0wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:21:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultDB_20221122_1151_PersonMovieImages.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Migrations\\DefaultDB\\DefaultDB_20221122_1151_PersonMovieImages.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Migrations\\DefaultDB\\DefaultDB_20221122_1151_PersonMovieImages.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Migrations\\DefaultDB\\DefaultDB_20221122_1151_PersonMovieImages.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Migrations\\DefaultDB\\DefaultDB_20221122_1151_PersonMovieImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:19:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonDialog.ts",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonDialog.ts",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonDialog.ts",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonDialog.ts",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonDialog.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T15:13:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonMovieGrid.ts",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieGrid.ts",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieGrid.ts",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieGrid.ts",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieGrid.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T14:58:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonMovieColumns.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieColumns.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieColumns.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieColumns.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonMovieColumns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:56:03.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonForm.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonForm.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonForm.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonForm.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:47:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRow.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonRow.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonRow.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonRow.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Person\\PersonRow.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA/wEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:46:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieForm.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieForm.cs",
+              "RelativeDocumentMoniker": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieForm.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\MovieTutorial\\MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieForm.cs",
+              "RelativeToolTip": "MovieTutorial\\MovieTutorial.Web\\Modules\\MovieDB\\Movie\\MovieForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:37:36.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

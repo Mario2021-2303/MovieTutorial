@@ -1,0 +1,23 @@
+{
+  "name": "movietutorial.web",
+  "dependencies": {
+    "@serenity-is/corelib": "./node_modules/.dotnet/serenity.corelib",
+    "@serenity-is/extensions": "./node_modules/.dotnet/serenity.extensions",
+    "@serenity-is/sleekgrid": "./node_modules/.dotnet/serenity.sleekgrid",
+    "@types/jquery": "^3.5.30",
+    "jsx-dom": "8.1.2",
+    "preact": "10.15.0"
+  },
+  "devDependencies": {
+    "@serenity-is/tsbuild": "8.0.1",
+    "eslint": "^9.7.0"
+  },
+  "scripts": {
+    "build": "npm run tsbuild",
+    "preinstall": "dotnet build -target:RestoreNodeTypes",
+    "tsbuild": "node ./tsbuild.js",
+    "tsbuild:watch": "node ./tsbuild.js --watch"
+  },
+  "private": true,
+  "type": "module"
+}
